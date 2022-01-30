@@ -89,3 +89,6 @@ build/
 # Default ignored files
 /shelf/
 /workspace.xml
+
+mvnw
+mvnw.cmd
